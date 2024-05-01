@@ -1,6 +1,6 @@
 pipeline {
     agent any
-// vAN aN duONG
+// Student name: Van An Duong
     stages {
         stage('Build') {
             steps {
